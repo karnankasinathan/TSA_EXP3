@@ -48,4 +48,4 @@ plt.show()
 ![Screenshot 2024-09-11 092814](https://github.com/user-attachments/assets/7ef36b7d-2740-49f4-a713-bbe5c28b0c64)
 
 ### RESULT:
-        Thus the program was successfully created to the auto correlation function airline complaints dataset.
+Thus the program was successfully created to the auto correlation function for airline complaints dataset.
